@@ -14,5 +14,17 @@
   "wlan-avc": {
     "Number": 1,
     "ID": "1"
+  },
+   "wlan-acvc": {
+    "Number": 1,
+    "ID": "1"
+  },
+   "wlan-adsvc": {
+    "Number": 1,
+    "ID": "1"
+  },
+   "wlan-adffvc": {
+    "Number": 1,
+    "ID": "1"
   }
 }
